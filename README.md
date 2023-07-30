@@ -1,6 +1,6 @@
                                                  👋 Hi, I’m @FabPark
 - 👀 I’m interested in running!
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on the next big thing!
 - 📫 How to reach me fabpark93@gmail.com
 
