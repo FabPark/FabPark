@@ -2,7 +2,7 @@
 ```javascript
 const fabian = {
   code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [MongoDB, Express.js, React, Node, Redux, Next.js, Styled-Components],
+  tools: [MongoDB, Express.js, React, Node, Redux, Next.js, Tailwind CSS, Flowbite],
   interest: {
                         running,
                         cooking,
