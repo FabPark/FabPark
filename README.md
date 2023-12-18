@@ -19,6 +19,6 @@ const fabian = {
                         eating,
                       },
 
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ currently: "I am updating my blog on how my previous projects"
 }
 ```
