@@ -19,6 +19,6 @@ const fabian = {
                         eating,
                       },
 
- currently: "I am updating my blog on how my previous projects"
+ currently: "I am updating my blog on my previous projects"
 }
 ```
