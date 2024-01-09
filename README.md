@@ -17,9 +17,8 @@ const fabian = {
 
  contact: fabpark93@gmail.com  
 }
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FabPark&label=Profile%20views&color=0e75b6&style=flat" alt="FabPark" /> </p>
 ```
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FabPark&label=Profile%20views&color=0e75b6&style=flat" alt="FabPark" /> </p>
 
 <!---
 FabPark/FabPark is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
