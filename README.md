@@ -15,7 +15,7 @@ const fabian = {
 
  currently: "I am updating my blog on my previous projects",
 
- contact: fabpark93@gmail.com  
+ contact: [fabpark93@gmail.com, https://twitter.com/Dev464142],  
 }
 ```
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FabPark&label=Profile%20views&color=0e75b6&style=flat" alt="FabPark" /> </p>
